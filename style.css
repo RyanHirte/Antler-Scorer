@@ -1,3 +1,8 @@
 body {
-    background: gray;
+  background: gray;
+}
+
+/* Diagnostic Styling */
+* {
+  border: 1px dotted black;
 }
